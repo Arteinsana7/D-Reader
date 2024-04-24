@@ -26,7 +26,7 @@ Version 1.0: Develop the initial version of the web extension, focusing on font 
 
 
 
-## Programming language : HTML, CSS, JavaScript,package Json.
+## Programming languages : HTML, CSS, JavaScript, package Json.
 
 
 
