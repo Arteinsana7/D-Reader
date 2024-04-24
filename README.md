@@ -1,7 +1,6 @@
 # D-reader
 
-
-Dyslexia-Friendly Font Extension.
+Dyslexia-Friendly Font Extension for Chrome.
 
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
