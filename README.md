@@ -1,7 +1,7 @@
 # D-readear
 
 
-Project Title: Dyslexia-Friendly Font Extension
+Dyslexia-Friendly Font Extension.
 
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -19,15 +19,16 @@ Implementation:
 Version 1.0: Develop the initial version of the web extension, focusing on font modification capabilities and basic customization options.
 Credits:
 
-This project is developed by Authors :
+## Contributeuses(-eurs)
 
-Eliana YEPEZ
-Imelda Kasente
-Whalid O
 
-With the goal of promoting inclusivity and accessibility in web browsing experiences.
+- [**Eliana YEPEZ**](https://github.com/Arteinsana7) - *Developer*
+- [**Imelda KASENTE**](https://github.com/kasente) - *Developer*
+- [**Whalid**]() - *Developer*
 
-Langages : HTML CSS et JavaScript
-Outils : Git, VSCode , package Json
+
+
+## Programming language : HTML, CSS, JavaScript.Package Json
+## Tools : Git, VSCode, Chrome.
 
 
