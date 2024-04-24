@@ -27,7 +27,7 @@ Credits:
 
 
 
-## Programming language : HTML, CSS, JavaScript.Package Json
-## Tools : Git, VSCode, Chrome.
+## Programming language : HTML, CSS, JavaScript,package Json.
+
 
 
