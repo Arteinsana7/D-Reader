@@ -1,4 +1,4 @@
-# D-readear
+# D-reader
 
 
 Dyslexia-Friendly Font Extension.
@@ -19,7 +19,7 @@ Implementation:
 Version 1.0: Develop the initial version of the web extension, focusing on font modification capabilities and basic customization options.
 Credits:
 
-## Contributeuses(-eurs)
+## Contributors
 
 
 - [**Eliana YEPEZ**](https://github.com/Arteinsana7) - *Developer*
