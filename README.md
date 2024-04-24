@@ -16,7 +16,6 @@ Seamless Integration: Integrate seamlessly with the Chrome browser, providing a 
 Implementation:
 
 Version 1.0: Develop the initial version of the web extension, focusing on font modification capabilities and basic customization options.
-Credits:
 
 ## Contributors
 
